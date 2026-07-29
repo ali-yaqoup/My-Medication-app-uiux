@@ -1,1 +1,21 @@
-IyBNZWRUcmFjayDigJQgTWVkaWNhdGlvbiBSZW1pbmRlciBBcHAgVUkvVVgKCkEgVUkvVVggZGVzaWduIHByb2plY3QgZm9yIGEgbW9iaWxlIG1lZGljYXRpb24tcmVtaW5kZXIgYXBwbGljYXRpb24gY2FsbGVkICoqTXkgTWVkaWNhdGlvbioqIChhbHNvIHJlZmVycmVkIHRvIGFzICoqVGltZTRNZWRzKiogaW4gdGhlIHB1Ymxpc2hlZCBjYXNlIHN0dWR5KS4gVGhlIGdvYWwgaXMgdG8gaGVscCB1c2VycyByZW1lbWJlciB0aGVpciBtZWRpY2F0aW9uIHNjaGVkdWxlcyBhbmQgaW1wcm92ZSB0cmVhdG1lbnQgYWRoZXJlbmNlLgoKVGhpcyByZXBvc2l0b3J5IGNvbnRhaW5zIG9ubHkgZGVzaWduIGFydGVmYWN0cyDigJQgdGhlcmUgaXMgbm8gYXBwbGljYXRpb24gY29kZS4gVGhlIGZ1bGwgY2FzZSBzdHVkeSBpcyBwdWJsaXNoZWQgb24gQmVoYW5jZS4KCiMjIERlc2lnbgoKKipCZWhhbmNlIGNhc2Ugc3R1ZHk6KiogW1RpbWU0TWVkcyAoVUkvVVgpXShodHRwczovL3d3dy5iZWhhbmNlLm5ldC9nYWxsZXJ5LzIxMTc1Mzg5MS9UaW1lNE1lZHMtJTI4VWktVXglMjkpCgpUaGUgZGVzaWduIGNvdmVycyBhIG1lZGljYXRpb24tcmVtaW5kZXIgbW9iaWxlIGFwcCBpbmNsdWRpbmcgc2NoZWR1bGluZywgcmVtaW5kZXJzLCBhbmQgaGVhbHRoIHRyYWNraW5nIHNjcmVlbnMuIEFsbCBoaWdoLWZpZGVsaXR5IHNjcmVlbnMgYXJlIGhvc3RlZCBhbmQgdmlld2FibGUgdGhyb3VnaCB0aGUgQmVoYW5jZSBsaW5rIGFib3ZlLgoKIyMgVG9vbHMKCi0gRmlnbWEgKFVJL1VYIGRlc2lnbiBhbmQgcHJvdG90eXBpbmcpCgojIyBDbG9uZQoKYGBgYmFzaApnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2FsaS15YXFvdXAvTWVkVHJhY2stVUlVWC5naXQKYGBgCg==
+# MedTrack — Medication Reminder App UI/UX
+
+A UI/UX design project for a mobile medication-reminder application called **My Medication** (also referred to as **Time4Meds** in the published case study). The goal is to help users remember their medication schedules and improve treatment adherence.
+
+This repository contains only design artefacts — there is no application code. The full case study is published on Behance.
+
+## Design
+
+**Behance case study:** [Time4Meds (UI/UX)](https://www.behance.net/gallery/211753891/Time4Meds-%28Ui-Ux%29)
+
+The design covers a medication-reminder mobile app including scheduling, reminders, and health tracking screens. All high-fidelity screens are hosted and viewable through the Behance link above.
+
+## Tools
+
+- Figma (UI/UX design and prototyping)
+
+## Clone
+
+```bash
+git clone https://github.com/ali-yaqoup/MedTrack-UIUX.git
+```
